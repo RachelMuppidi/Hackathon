@@ -160,7 +160,7 @@ input:-webkit-autofill:focus {
 }
 
 .social-menu li a:hover {
-    background-color: #138fc2;
+    background-color: black;
     color: #ffffff;
     -webkit-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.1);
@@ -394,7 +394,8 @@ input:-webkit-autofill:focus {
     font-size: 40px;
 }
 
-.header-text .button {
+.header-text .
+ {
     margin-top: 30px;
 }
 
@@ -980,4 +981,9 @@ preloader
         transform: perspective(140px) rotateY(180deg);
         opacity: 0;
     }
+}
+.registration {
+  text-align: center;
+  font-weight: 20px;
+  font-size: 25px;
 }
