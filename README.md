@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your produc..
+One to two paragraph statement about your product..
 
 ![](header.png)
 
@@ -45,7 +45,6 @@ npm test
       * ADD: signup buttons in Navbar
       * CHANGE:  Background Photo in jumbotron
       * CHANGE: Color Scheme to match customer requirements (blue/teal)
-
 
 * 0.2.1 3-20-2019
     * Made changes based on CSR #1
