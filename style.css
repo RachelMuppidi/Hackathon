@@ -171,7 +171,7 @@ input:-webkit-autofill:focus {
 **/
 
 .overlay:before,
-.sky-bg {
+/**.sky-bg {
     background: #75cbe7;
     background: -webkit-gradient(linear, left top, left bottom, from(#75cbe7), to(#138fc2));
     background: linear-gradient(to bottom, #75cbe7 0%, #138fc2 100%);
@@ -181,7 +181,7 @@ input:-webkit-autofill:focus {
 
 .gray-bg {
     background-color: #f2fefe;
-}
+}**/
 
 /**
 *Default Button
@@ -367,13 +367,13 @@ input:-webkit-autofill:focus {
 **/
 
 .client-area,
-.header-area {
+/**.header-area {
     background: #000000 url('images/parallax-2.jpg') no-repeat scroll center center / cover;
 }
 
 .anlge-bg {
     background: url('images/angle-bg.png') no-repeat scroll center bottom -120px / 100% auto;
-}
+}**/
 
 .overlay {
     position: relative;
