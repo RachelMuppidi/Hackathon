@@ -51,6 +51,15 @@ npm test
       *  ADD: Logo in left hand corner
       *  CHANGE: Text under signup buttons
 
+      * 0.2.1 3-20-2019
+          * Made changes based on CSR #1
+            *  ADD: Logo in left hand corner
+            *  CHANGE: Text under signup buttons
+
+      academies of loudoun Logo
+      background photo
+      add three sponsers Rathyon microsoft google
+
 
 ## Meta
 
